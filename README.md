@@ -29,9 +29,10 @@ $ npm install --save editable-material-table
 ## Getting Started
 
 - import and render `EditableTable`
-- Add the data nd column props
+- Add the data and column props
 - optional add YUP validation
 - Wait for the onSubmit save call
+
 
 ## Author
 
