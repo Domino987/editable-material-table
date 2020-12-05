@@ -8,9 +8,9 @@ Internally, it uses [Formik](https://github.com/jaredpalmer/formik) and validati
 
 ## Screenshot
 
-![Example Display](screenshot_01.png)
+![Example Display](https://github.com/Domino987/editable-material-table/blob/master/screenshot_01.png)
 
-![Validation example](screenshot_02.png)
+![Validation example](https://github.com/Domino987/editable-material-table/blob/master/screenshot_02.png)
 
 ## Requirement
 
