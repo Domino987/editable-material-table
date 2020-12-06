@@ -1,6 +1,18 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
+  "author": "Dominik Engel (https://github.com/Domino987)",
+  "description": "Editable material-ui table with formik and validation with yup",
+  "keywords": [
+    "react",
+    "material-ui",
+    "table",
+    "edit",
+    "formik",
+    "YUP",
+    "typescript",
+    "tsdx"
+  ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "homepage": "https://github.com/Domino987/editable-material-table",
@@ -37,7 +49,6 @@
     "trailingComma": "es5"
   },
   "name": "editable-material-table",
-  "author": "Dominik Engel",
   "module": "dist/editable-material-table.esm.js",
   "size-limit": [
     {
@@ -57,6 +68,8 @@
     "@storybook/addon-links": "^6.1.10",
     "@storybook/addons": "^6.1.10",
     "@storybook/react": "^6.1.10",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@types/throttle-debounce": "^2.1.0",
